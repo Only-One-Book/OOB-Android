@@ -84,6 +84,6 @@ lint/outputs/
 lint/tmp/
 # lint/reports/
 
-OOBAndroid/.idea/
+OOB-Android/.idea/
 
 .DS_Store
