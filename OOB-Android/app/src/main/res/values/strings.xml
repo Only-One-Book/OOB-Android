@@ -11,4 +11,9 @@
     <string name="name">name</string>
     <string name="k_name">이름</string>
     <string name="signUp">회원가입</string>
+    <string name="new_post">새로 올라온 작품</string>
+    <string name="my_scrap">내가 스크랩 한 글</string>
+    <string name="no_post">글이 없습니다.</string>
+    <string name="profile_title">님의 프로필</string>
+    <string name="tag_scrap">태그별 스크랩</string>
 </resources>
