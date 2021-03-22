@@ -16,4 +16,5 @@
     <string name="no_post">글이 없습니다.</string>
     <string name="profile_title">님의 프로필</string>
     <string name="tag_scrap">태그별 스크랩</string>
+    <string name="my_post">내 작품</string>
 </resources>
